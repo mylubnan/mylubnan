@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luke
-- 👀 I’m interested in Backend, Security, AI
-- 🌱 I’m currently learning DevOps, AI, Web, Multimedia
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Multiplatform Applications by Flutter, Games Developed by Unity, IoT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : mylubnan@gmail.com
+- 📫 How to reach me: mylubnan@gmail.com
