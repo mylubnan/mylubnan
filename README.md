@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Luke
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Computer, Technology, and Innovation
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mylubnan@gmail.com
+- 👔 You can search me more on this social media [LinkedIn](https://www.linkedin.com/in/lubnan-samaae-54b0681a9/)
